@@ -1,4 +1,4 @@
-# Weather Prediction Project
+# Weather Prediction model
 
 This repository contains a project aimed at analyzing and predicting weather patterns using machine learning. The core functionality is implemented in a Jupyter notebook, and weather data is provided in a CSV file.
 
