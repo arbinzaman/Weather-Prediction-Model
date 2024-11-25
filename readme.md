@@ -24,10 +24,10 @@ To run this project, you need to have the following installed:
    git clone https://github.com/yourusername/weather-prediction.git
    cd weather-prediction
 2. Install the required packages:
-    ``bash
+    ```bash
     pip install pandas numpy scikit-learn matplotlib seaborn
 3. Launch the Jupyter notebook:
-    ``bash
+    ```bash
     jupyter notebook predict.ipynb
 
 ### Dataset
