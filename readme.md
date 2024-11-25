@@ -34,13 +34,13 @@ To run this project, you need to have the following installed:
 The file weather.csv contains historical weather data. Ensure the dataset is in the same directory as the notebook or update the file path in the notebook accordingly.
 
 ### Usage
-Open the predict.ipynb notebook in Jupyter.
-Run the cells sequentially to:
-Load and preprocess the dataset.
-Train a weather prediction model.
-Evaluate the model's performance.
-Visualize predictions and insights.
+1. Open the predict.ipynb notebook in Jupyter.
+2. Run the cells sequentially to:
+- Load and preprocess the dataset.
+- Train a weather prediction model.
+- Evaluate the model's performance.
+- Visualize predictions and insights.
 ### Features
-Data preprocessing and visualization.
-Training a machine learning model for weather prediction.
-Performance evaluation metrics and visualizations.
+- Data preprocessing and visualization.
+- Training a machine learning model for weather prediction.
+- Performance evaluation metrics and visualizations.
